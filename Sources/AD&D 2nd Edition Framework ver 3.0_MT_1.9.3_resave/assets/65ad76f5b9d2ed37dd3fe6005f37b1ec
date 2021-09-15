@@ -1,0 +1,9 @@
+<net.rptools.maptool.model.Asset>
+  <id>
+    <id>65ad76f5b9d2ed37dd3fe6005f37b1ec</id>
+  </id>
+  <name>spread</name>
+  <extension>png</extension>
+  <type>image</type>
+  <image/>
+</net.rptools.maptool.model.Asset>
